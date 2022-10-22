@@ -3,7 +3,7 @@
 
 Documentation is released : https://berk-birkan.gitbook.io/wordpressappswiftui/
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "WordpressSwiftUI App"
+[logo]: wordpressswiftui.png "WordpressSwiftUI App"
 
 
 App Features:
